@@ -1,2 +1,3 @@
 First line in file_b
 Firt change before adding to stage
+First line in file_b in dev branch
