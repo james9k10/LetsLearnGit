@@ -1,1 +1,2 @@
 New file added in dev branch for its first commit
+A direct change in file_c.txt in dev branch
